@@ -27,13 +27,13 @@ the consumption level for the n-th company).
 Example file:
 ```
 2
-2013-09-01 00:00
+2024-09-01 00:00
 13
 66
 0
 12
 33
-2013-09-01 01:00
+2024-09-01 01:00
 12
 33
 1
